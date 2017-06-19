@@ -1,0 +1,3 @@
+set ASPNETCORE_ENVIRONMENT=Production
+SET ASPNETCORE_URLS=https://*:8012
+dotnet run
