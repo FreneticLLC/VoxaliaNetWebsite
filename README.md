@@ -6,6 +6,10 @@ The source code for the home page of Voxalia.
 
 Just getting set up!
 
+## Setup
+
+- Requires DotNetCore 3.0 or higher!
+
 ## License
 
-Copyright (C) 2017 Frenetic LLC, All Rights Reserved.
+Copyright (C) 2017-2019 Frenetic LLC, All Rights Reserved.
