@@ -12,4 +12,4 @@ Just getting set up!
 
 ## License
 
-Copyright (C) 2017-2019 Frenetic LLC, All Rights Reserved.
+Copyright (C) 2017-2020 Frenetic LLC, All Rights Reserved.

@@ -11,7 +11,6 @@
   width: 100%;
   height: 100%;
 }
-
 .fullscreen-bg__video {
   position: absolute;
   top: 0;
@@ -19,17 +18,32 @@
   width: 100%;
   height: 100%;
 }
-
 @media (min-aspect-ratio: 16/9) {
   .fullscreen-bg__video {
     height: 300%;
     top: -100%;
   }
 }
-
 @media (max-aspect-ratio: 16/9) {
   .fullscreen-bg__video {
     width: 300%;
     left: -100%;
   }
+}
+
+.page_contents {
+    text-align: center;
+}
+.voxalia_title {
+    background-color: #FFFFFF33;
+    font-size: 256px;
+    display: inline-block;
+}
+.partial_spacer {
+  height: 200px;
+}
+.voxalia_description {
+    background-color: #FFFFFF77;
+    font-size: 32px;
+    display: inline-block;
 }
