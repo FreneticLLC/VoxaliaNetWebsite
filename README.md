@@ -8,7 +8,7 @@ Just getting set up!
 
 ## Setup
 
-- Requires DotNetCore 3.0 or higher!
+- Requires DotNetCore 3.1 or higher!
 
 ## License
 
