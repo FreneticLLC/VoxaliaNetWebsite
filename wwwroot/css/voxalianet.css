@@ -1,5 +1,9 @@
 /* Voxalia.net CSS */
 
+body {
+  background-color: #AAAAAA;
+}
+
 .fullscreen-bg {
   position: absolute;
   top: 0;

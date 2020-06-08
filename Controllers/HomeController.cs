@@ -22,5 +22,10 @@ namespace VoxaliaNetWebsite.Controllers
         {
             return View();
         }
+
+        public IActionResult Launcher()
+        {
+            return View();
+        }
     }
 }
