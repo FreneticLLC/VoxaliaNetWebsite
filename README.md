@@ -8,8 +8,8 @@ Just getting set up!
 
 ## Setup
 
-- Requires DotNetCore 3.1 or higher!
+- Requires .NET 5 or higher!
 
 ## License
 
-Copyright (C) 2017-2020 Frenetic LLC, All Rights Reserved.
+Copyright (C) 2017-2021 Frenetic LLC, All Rights Reserved.
